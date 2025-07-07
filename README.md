@@ -83,11 +83,7 @@ This project provides an automated API test suite for the Bookstore FastAPI appl
 ## Sample Test Report
 
 After running the test suite, you can view a detailed HTML report.  
-Below is a screenshot example:
-
-![Sample Test Report](tests/sample-report.png)
-
-Or, open the generated HTML report in your browser after running:
+open the generated HTML report in your browser after running:
 
 ```bash
 npm run test:report
