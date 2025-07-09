@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides an automated API test suite for the Bookstore FastAPI application using Playwright and TypeScript.
+This project provides an automated API test suite for the Bookstore FastAPI application using Playwright and TypeScript. 
 
 ---
 
