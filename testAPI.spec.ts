@@ -3,7 +3,7 @@ import { test, expect } from '@playwright/test';
 const bookstoreUser = {
     email: `tester${Date.now()}@bookstoreworld.com`,
     password: 'Pass123!word'
-};
+};  
 
 const invalidUser = {
     email: `wrong${Date.now()}@bookstoreworld.com`,
